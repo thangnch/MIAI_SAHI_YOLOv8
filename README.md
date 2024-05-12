@@ -1,7 +1,7 @@
 # MIAI_SAHI_YOLOv8
 Demo of using SAHI with YOLOv8 to detect small things
 
-Video link:  https://youtu.be/_52-kz08LvU
+Video link: [ https://youtu.be/_52-kz08LvU](https://youtu.be/kHQqYWp3Wqw)
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
